@@ -23,6 +23,8 @@ This theme is maintained by one dude. Me ! :snail:
 :---: |
 [Rüdiger MD](https://github.com/RudigerMorinDocter) |
 
+Link to github repository : [Github - Wandering Mercenary Theme](https://github.com/RudigerMorinDocter/Wandering-Mercenary)
+
 ## Other projects
 
 Currently working on some video games.\
