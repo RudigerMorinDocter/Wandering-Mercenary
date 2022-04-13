@@ -1,0 +1,31 @@
+{
+    "name": "wandering-mercenary",
+    "displayName": "Wandering Mercenary",
+    "description": "Military-like theme for VSCode, for all the code mercenaries out there ! ;)",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Wandering Mercenary",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Wandering_Mercenary-color-theme.json"
+            }
+        ]
+    },
+    "icon": "Icon_Robot_Military.png",
+    "galleryBanner": {
+        "color": "#432131",
+        "theme": "dark"
+      },
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RudigerMorinDocter/Wandering-Mercenary.git"
+    }
+}
