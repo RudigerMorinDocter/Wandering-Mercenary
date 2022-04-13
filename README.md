@@ -3,7 +3,7 @@
 
 > A military-based theme for [Visual Studio Code](http://code.visualstudio.com).
 
-![Theme_Icon](https://github.com/RudigerMorinDocter/Wandering-Mercenary/Icon_Robot_Military_Animated.gif)
+![Theme_Icon](https://github.com/RudigerMorinDocter/Wandering-Mercenary/blob/master/Icon_Robot_Military_Animated.gif)
 
 Made for all the code mercenaries out there ;) ! :wolf:
 
@@ -11,7 +11,7 @@ Made for all the code mercenaries out there ;) ! :wolf:
 
 Colors are a collection of "Tan Brown" and "Ranger Green", coupled with red and blue accents. Inspiration comes from the Spitfires paintjobs !
 
-![Theme_Preview](https://github.com/RudigerMorinDocter/Wandering-Mercenary/Wandering_Mercenary_Preview.png)
+![Theme_Preview](https://github.com/RudigerMorinDocter/Wandering-Mercenary/blob/master/Wandering_Mercenary_Preview.png)
 
 I've come to make a lot of games in my spare time, most of which I'll never finish. This theme is derived from one of my games that I never released. At least the icon came in handy for the repo. :p
 
