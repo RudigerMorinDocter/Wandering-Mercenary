@@ -3,6 +3,7 @@
     "displayName": "Wandering Mercenary",
     "description": "Military-like theme for VSCode, for all the code mercenaries out there ! ;)",
     "version": "1.0.0",
+    "publisher": "FastExtract",
     "engines": {
         "vscode": "^1.66.0"
     },
